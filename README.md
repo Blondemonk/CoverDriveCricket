@@ -1,3 +1,3 @@
 # CoverDriveCricket
-![Gameplay image of Cover Drive Cricket](https://drive.google.com/file/d/1X3aJLLl5yOEOFTJAgeSdx06B67lB2jj7/view?usp=sharing)
+![Gameplay image of Cover Drive Cricket](https://coverdrive.cricket/_next/image?url=%2Fimages%2FCDC_SuperOver.jpg&w=828&q=75)
 The official release channel for https://coverdrive.cricket
